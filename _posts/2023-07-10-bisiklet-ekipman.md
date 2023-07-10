@@ -1,5 +1,5 @@
 ---
-title: Bisiklet ve Güvenlik Ekipmanları
+title: Elektrikli Bisiklet ve Güvenlik Ekipmanları
 author: nurigunduz
 date: 2023-06-28 11:33:00 +0800
 categories: [Bisiklet]
