@@ -20,7 +20,7 @@ tabs:
 search:
   hint: Ara
   cancel: İptal
-  no_results: Hop! Öyle bir şey bulamadım.
+  no_results: Hops! Uygun sonuç bulamadım :(
 
 panel:
   lastmod: Yeni Güncellendi
