@@ -1,7 +1,7 @@
 ---
 title: Elektrikli Bisiklet ve Güvenlik Ekipmanları
 author: nurigunduz
-date: 2023-06-28 11:33:00 +0800
+date: 2023-07-10 11:33:00 +0800
 categories: [Bisiklet]
 tags: [Bisiklet,Güvenlik]
 pin: true
