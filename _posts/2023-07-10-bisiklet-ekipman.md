@@ -7,6 +7,7 @@ tags: [Bisiklet,Güvenlik]
 pin: true
 math: true
 mermaid: false
+comments: true
 image:
   path: /assets/commons/bicycle-safety.png
   alt: Bisiklet ve güvenlik ekipmanları
