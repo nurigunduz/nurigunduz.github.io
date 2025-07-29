@@ -1,4 +1,4 @@
-_---
+---
 title: Kod Kalitesi ve Ekip Verimliliği
 author: nurigunduz
 date: 2025-07-29 11:33:00 +0800
