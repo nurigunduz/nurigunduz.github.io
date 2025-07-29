@@ -1,5 +1,5 @@
 ---
-title: Teknik Lider Olarak İş Yükü Yönetimi :: Pratik Yaklaşımlar
+title: Teknik Lider Olarak İş Yükü Yönetimi Pratik Yaklaşımlar
 author: nurigunduz
 date: 2025-07-29 11:33:00 +0800
 categories: [Yazılım]
